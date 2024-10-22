@@ -1,0 +1,7 @@
+title: "IIHE-Hc-Analysis"
+description: "IIHE Higgs+jet analysis organization"
+baseurl: ""
+url: "IIHE-Hc-Analysis.github.io"
+theme: "jekyll-theme-cayman"  # Choose a Jekyll theme or customize CSS
+plugins:
+  - jekyll-feed
