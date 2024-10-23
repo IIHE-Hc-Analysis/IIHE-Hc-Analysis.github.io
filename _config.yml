@@ -2,6 +2,7 @@ title: "IIHE-Hc-Analysis"
 description: "IIHE Higgs+jet analysis organization"
 baseurl: ""
 url: "https://IIHE-Hc-Analysis.github.io"
-theme: "Minima"  # Choose a Jekyll theme or customize CSS
+theme: "architect"  # Choose a Jekyll theme or customize CSS
+#theme: "Minima"  # Choose a Jekyll theme or customize CSS
 #theme: "midnight"  # Choose a Jekyll theme or customize CSS
 #theme: "jekyll-theme-cayman"  # Choose a Jekyll theme or customize CSS
