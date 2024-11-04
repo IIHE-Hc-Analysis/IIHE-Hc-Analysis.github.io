@@ -12,7 +12,7 @@ title: Welcome to IIHE-Hc-Analysis
 # Welcome at the IIHE
 
 The Inter-University Institute For High Energies (IIHE) institute is a joined institute of the VUB and ULB high-energy physics groups. To learn more about the institute, you can visit the [IIHE website](https://iihe.ac.be/). 
-The IT group of the IIHE should send you a welcome email regarding the IT infrastructure. If they have not sent it yet after you arrive at the institute, you can ask them via support-iihe@listserv.vub.ac.be. This welcome email should give pointers to IIHE indico account registration, access to the [T2B computing cluster](https://t2bwiki.iihe.ac.be/First_access_to_t2b) (the so-called "m-machines"), etc. 
+The IT group of the IIHE should send you a welcome email regarding the IT infrastructure. If they have not sent it yet after you arrive at the institute, you can ask them via support-iihe@listserv.vub.ac.be. This welcome email should give pointers to IIHE indico account registration, access to the [T2B computing cluster](https://t2bwiki.iihe.ac.be/First_access_to_t2b) (including the so-called "m-machines"), etc. 
 
 Additional useful links and information:
 - IIHE indico, for meeting agendas: https://indico.iihe.ac.be/. Note that you need to create a different account than you use for [cern indico](https://indico.cern.ch/category/6803/). Once you have created your IIHE indico account, you should ask Gerrit to be added to the CMS IIHE indico group to get access to CMS-internal meetings.
@@ -33,15 +33,15 @@ In order to join the CMS experiment, here are a few pointers.
 # Welcome tot the VUB H+jet analysis group
 
 ## Meetings Useful CMS meetings to attend (semi-)regularly:
-- Weekly VUB H+c & friends meeting on Monday afternoon, see https://indico.iihe.ac.be/category/1/search?q=H%2Bc. Topics discussed here are H+jet analysis efforts; top quark pair associated charm quark pair production (tt+cc); heavy jet flavor identification developments.
-- CMS HIG PAG meetings: https://indico.cern.ch/category/26/. The general HIG PAG meeting can be useful, typically on Tuesdays at 14:00 (biweekly, sometimes also off-week), and especially the HZZ (= H decaying to ZZ) subgroup meeting, typically on Friday at 14:00 (weekly or biweekly).
-- CMS POG or other meetings on objects that are relevant to your research (b tagging, jets, generators...)
+- [Weekly VUB H+c & friends meeting](https://indico.iihe.ac.be/category/1/search?q=H%2Bc) on Monday afternoon. Topics discussed here are H+jet analysis efforts; top quark pair associated charm quark pair production (tt+cc); and heavy jet flavor identification developments.
+- [CMS HIG PAG meetings](https://indico.cern.ch/category/26/). The general HIG PAG meeting can be useful, typically on Tuesdays at 14:00 (biweekly, sometimes also off-week), and especially the HZZ (= H decaying to ZZ) subgroup meeting, typically on Friday at 14:00 (weekly or biweekly).
+- [CMS POG or other meetings](https://indico.cern.ch/category/6803/) on objects or tools that are relevant to your research (b tagging, jets, Monte Carlo generators...)
 
 ## Documentation
 - CMS paper of the measurement of the Higgs boson production cross section in the H->ZZ->4lepton final state, that has similarities to our H+jet analysis: https://arxiv.org/abs/2103.04956
 - Higgs/charm workshop May 2024: https://indico.cern.ch/event/1347445/ 
-  In particular, see talks of Felix on the analysis: https://indico.cern.ch/event/1347445/contributions/5900707/
-- Nordin on simulation in the SM and EFT: https://indico.cern.ch/event/1347445/contributions/5857938/  https://indico.cern.ch/event/1347445/
+  In particular, see [talk of Felix on the H+c analysis](https://indico.cern.ch/event/1347445/contributions/5900707/)
+  and [talk of Nordin on simulation in the SM and EFT](https://indico.cern.ch/event/1347445/contributions/5857938/)
 
 
 
