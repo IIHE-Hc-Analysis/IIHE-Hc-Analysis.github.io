@@ -67,7 +67,7 @@ Useful CMS meetings to attend (semi-)regularly:
 - [CMS POG or other meetings](https://indico.cern.ch/category/6803/) on objects or tools that are relevant to your research ([b tagging](https://indico.cern.ch/category/1309/), [jets](https://indico.cern.ch/category/1308/), [Monte Carlo generators](https://indico.cern.ch/category/548/), ...).
 - [CMS general weekly meeting](https://indico.cern.ch/category/677/), typically on Thursday at 16:00.
 
-The H+c analysis is part of a broader inter-university iBOF project in Belgium focusing on the charm-Higgs Yukawa coupling measurement. We meet with the other researchers a few times a year. You can try to add yourself to the [CERN e-group](https://e-groups.cern.ch/e-groups/EgroupsSearch.do) "be-charm-Higgs". Ask Gerrit to confirm if you are added to the iBOF e-group email list. 
+The H+c analysis is part of a broader inter-university iBOF project in Belgium focusing on the charm-Higgs Yukawa coupling measurement. We meet with the other researchers a few times a year. You can try to add yourself to the [CERN e-group](https://e-groups.cern.ch/e-groups/EgroupsSearch.do) "be-charm-Higgs" (only applicable for PhD students and postdocs). Ask Gerrit if you experience problems. 
 
 ## Documentation
 - CMS paper [HIG-19-001](https://arxiv.org/abs/2103.04956) of the measurement of the Higgs boson production cross section in the H->ZZ->4lepton final state, that has similarities to our H+jet analysis.
