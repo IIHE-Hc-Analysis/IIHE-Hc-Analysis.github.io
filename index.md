@@ -66,7 +66,7 @@ Useful CMS meetings to attend (semi-)regularly:
 - [CMS HIG PAG meetings](https://indico.cern.ch/category/26/). The general HIG PAG meeting can be useful, typically on Tuesday at 14:00 (biweekly, sometimes also off-week), and especially the HZZ (= H decaying to ZZ) subgroup meeting, typically on Friday at 14:00 (weekly or biweekly).
 - [CMS POG or other meetings](https://indico.cern.ch/category/6803/) on objects or tools that are relevant to your research (b tagging, jets, Monte Carlo generators...)
 
-The H+c analysis is part of a broader inter-university iBOF project in Belgium focusing on the charm-Higgs Yukawa coupling measurement. We meet with the other researchers a few times a year. 
+The H+c analysis is part of a broader inter-university iBOF project in Belgium focusing on the charm-Higgs Yukawa coupling measurement. We meet with the other researchers a few times a year. Ask Gerrit to check if you are added to the iBOF e-group email list.
 
 ## Documentation
 - CMS paper [HIG-19-001](https://arxiv.org/abs/2103.04956) of the measurement of the Higgs boson production cross section in the H->ZZ->4lepton final state, that has similarities to our H+jet analysis.
