@@ -23,7 +23,7 @@ Additional useful links and information:
 # CERN and the CMS experiment
 
 Here are a few pointers that are useful for newcomers in CERN and the CMS experiment.
-- CERN and CMS registration: see the page on the website of the [CMS secretariat](https://cms-secretariat.web.cern.ch/cms-registration-and-computing-account#) and the [CMS twiki]([https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookGetAccount). With you CERN account, you can get access to the lxplus computing cluster. 
+- CERN and CMS registration: see the page on the website of the [CMS secretariat](https://cms-secretariat.web.cern.ch/cms-registration-and-computing-account#) and the [CMS twiki]([https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookGetAccount). With you CERN account, you can get access to CMS-internal websites (e.g. [twikis](https://twiki.cern.ch/twiki/bin/viewauth/CMS)) and the lxplus computing cluster. 
 - [Mattermost](https://mattermost.web.cern.ch). This is a chat platform that we use for quick direct communication with the group members. Once you have a CERN account, you can set up Mattermost and ask one of the group members (e.g. Gerrit) to be added to the CMS experiment team and the relevant discussion channels.
 - The CMS Data Analysis School (CMS DAS) is highly recommended at the start of the PhD. This school is held every year in Fermilab in January and in Europe in the middle of the year. See this [list of upcoming and past CMS DAS schools](https://twiki.cern.ch/twiki/bin/view/CMS/CMSschoolsCommittee).
 - CMS DAS school introduction talks, e.g. [see the timetable of a 2024 CMS DAS school](https://indico.cern.ch/event/1388937/overview). In particular:
