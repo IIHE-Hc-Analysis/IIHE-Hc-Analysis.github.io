@@ -59,11 +59,11 @@ Here are a few pointers that are useful for newcomers in CERN and the CMS experi
 
 ## Meetings and collaborations
 VUB specific meetings:
-- [Weekly VUB H+c & friends meeting](https://indico.iihe.ac.be/category/1/search?q=H%2Bc) on Mondays at 13:00. Topics discussed here are H+jet analysis efforts; top quark pair associated charm quark pair production (tt+cc); and heavy jet flavor identification developments.
+- [Weekly VUB H+c & friends meeting](https://indico.iihe.ac.be/category/1/search?q=H%2Bc) on Monday at 13:00. Topics discussed here are H+jet analysis efforts; top quark pair associated charm quark pair production (tt+cc); and heavy jet flavor identification developments.
 - [Biweekly joined meetings of the VUB, Athens, Brown University groups](https://indico.cern.ch/category/7320/search?q=H%2Bc+with+H-%3EZZ) on Tuesday at 14:00. These groups are also involved in H+c with H->ZZ (and related work), and these collaborations are relevant towards CMS publication.
 
 Useful CMS meetings to attend (semi-)regularly:
-- [CMS HIG PAG meetings](https://indico.cern.ch/category/26/). The general HIG PAG meeting can be useful, typically on Tuesdays at 14:00 (biweekly, sometimes also off-week), and especially the HZZ (= H decaying to ZZ) subgroup meeting, typically on Friday at 14:00 (weekly or biweekly).
+- [CMS HIG PAG meetings](https://indico.cern.ch/category/26/). The general HIG PAG meeting can be useful, typically on Tuesday at 14:00 (biweekly, sometimes also off-week), and especially the HZZ (= H decaying to ZZ) subgroup meeting, typically on Friday at 14:00 (weekly or biweekly).
 - [CMS POG or other meetings](https://indico.cern.ch/category/6803/) on objects or tools that are relevant to your research (b tagging, jets, Monte Carlo generators...)
 
 The H+c analysis is part of a broader inter-university iBOF project in Belgium focusing on the charm-Higgs Yukawa coupling measurement. We meet with the other researchers a few times a year. 
