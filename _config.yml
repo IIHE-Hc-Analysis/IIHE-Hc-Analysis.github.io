@@ -6,3 +6,5 @@ url: "https://IIHE-Hc-Analysis.github.io"
 #theme: "Minima"  # Choose a Jekyll theme or customize CSS
 #theme: "midnight"  # Choose a Jekyll theme or customize CSS
 theme: "jekyll-theme-cayman"  # Choose a Jekyll theme or customize CSS
+plugins:
+  - jekyll-toc
