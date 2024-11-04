@@ -71,8 +71,7 @@ The H+c analysis is part of a broader inter-university iBOF project in Belgium f
 
 ## Documentation
 - CMS paper [HIG-19-001](https://arxiv.org/abs/2103.04956) of the measurement of the Higgs boson production cross section in the H->ZZ->4lepton final state, that has similarities to our H+jet analysis.
-- Higgs/charm workshop May 2024: https://indico.cern.ch/event/1347445/ 
-  In particular, see [talk of Felix on the H+c analysis](https://indico.cern.ch/event/1347445/contributions/5900707/)
+- [Higgs/charm workshop May 2024](https://indico.cern.ch/event/1347445/). In particular, see [talk of Felix on the H+c analysis](https://indico.cern.ch/event/1347445/contributions/5900707/)
   and [talk of Nordin on simulation in the SM and EFT](https://indico.cern.ch/event/1347445/contributions/5857938/)
 
 ## Analysis code framework
