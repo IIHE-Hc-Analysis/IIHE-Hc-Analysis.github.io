@@ -75,7 +75,7 @@ The H+c analysis is part of a broader inter-university iBOF project in Belgium f
   and [talk of Nordin on simulation in the SM and EFT](https://indico.cern.ch/event/1347445/contributions/5857938/)
 
 ## Analysis code framework
-- We have an [organization on github](https://github.com/IIHE-Hc-Analysis), with analysis repositories (README not yet available). To get access, communicate to one of the group members (e.g. Gerrit) the username or email address you use for github.
+- We have an [organization on github](https://github.com/IIHE-Hc-Analysis), with analysis repositories (README not yet available, <mark>to do</mark>). To get access to the code repositories, communicate to one of the group members (e.g. Gerrit) the username or email address you use for github.
 
 ---
 
