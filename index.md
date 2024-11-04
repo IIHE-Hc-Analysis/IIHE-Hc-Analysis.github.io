@@ -3,11 +3,13 @@ layout: default
 title: Welcome to IIHE-Hc-Analysis
 ---
 
+<!--
 *Current group members:*
-- PhD students: Felix Heyen, Nordin Breugelmans, Saranya Nandakumar, Chirayu Gupta
-- Master student: Stef Duponcheel
-- Postdoc: Gerrit Van Onsem
-- Professors: Michael Tytgat, Jorgen D'Hondt
+#- PhD students: Felix Heyen, Nordin Breugelmans, Saranya Nandakumar, Chirayu Gupta
+#- Master student: Stef Duponcheel
+#- Postdoc: Gerrit Van Onsem
+#- Professors: Michael Tytgat, Jorgen D'Hondt
+-->
 
 # The IIHE
 
