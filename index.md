@@ -10,7 +10,7 @@ title: Welcome to IIHE-Hc-Analysis
   - [Communication](#communication)
   - [Schools and introductions](#schools-and-introductions)
   - [Other relevant CMS platforms and tools](#other-relevant-cms-platforms-and-tools)
-- [The VUB H+jet analysis group](#the-vub-h-jet-analysis-group)
+- [The VUB H+jet analysis group](#the-vub-h+jet-analysis-group)
   - [Meetings and collaborations](#meetings-and-collaborations)
   - [Documentation](#documentation)
   - [Analysis code framework](#analysis-code-framework)
