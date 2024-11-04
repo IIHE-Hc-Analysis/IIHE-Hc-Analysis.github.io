@@ -12,7 +12,7 @@ title: Welcome to IIHE-Hc-Analysis
 # The IIHE
 
 The Inter-University Institute For High Energies (IIHE) institute is a joined institute of the VUB and ULB high-energy physics groups. To learn more about the institute, you can visit the [IIHE website](https://iihe.ac.be/). 
-The IT group of the IIHE should send you a welcome email regarding the IT infrastructure. If they have not sent it yet after you arrive at the institute, you can ask them via [support-iiheATlistserv.vub.ac.be](mailto:support-iihe@listserv.vub.ac.be). Their welcome email should give pointers to IIHE indico account registration, access to the [T2B computing cluster](https://t2bwiki.iihe.ac.be/First_access_to_t2b) (including the so-called "m-machines"), etc. 
+The IT group of the IIHE should send you a welcome email regarding the IT infrastructure. If they have not sent it yet after you arrive at the institute, you can ask them via support-iiheATlistserv.vub.ac.be. Their welcome email should give pointers to IIHE indico account registration, access to the [T2B computing cluster](https://t2bwiki.iihe.ac.be/First_access_to_t2b) (including the so-called "m-machines"), etc. 
 
 Additional useful links and information:
 - [IIHE indico](https://indico.iihe.ac.be/), for meeting agendas. Note that you need to create a different account than you use for [cern indico](https://indico.cern.ch/category/6803/). Once you have created your IIHE indico account, you should ask Gerrit to be added to the CMS IIHE indico group to get access to CMS-internal meetings.
@@ -21,7 +21,7 @@ Additional useful links and information:
 # CERN and the CMS experiment
 
 Here are a few pointers that are useful for newcomers in CERN and the CMS experiment.
-- CERN and CMS registration: see the page on the website of the [CMS secretariat](https://cms-secretariat.web.cern.ch/cms-registration-and-computing-account#) and the (CMS twiki)[https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookGetAccount]. With you CERN account, you can get access to the lxplus computing cluster. 
+- CERN and CMS registration: see the page on the website of the [CMS secretariat](https://cms-secretariat.web.cern.ch/cms-registration-and-computing-account#) and the [CMS twiki]([https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookGetAccount). With you CERN account, you can get access to the lxplus computing cluster. 
 - [Mattermost](https://mattermost.web.cern.ch). This is a chat platform that we use for quick direct communication with the group members. Once you have a CERN account, you can set up Mattermost and ask one of the group members (e.g. Gerrit) to be added to the CMS experiment team and the relevant discussion channels.
 - The CMS Data Analysis School (CMS DAS) is highly recommended at the start of the PhD. This school is held every year in Fermilab in January and in Europe in the middle of the year. See this [list of upcoming and past CMS DAS schools](https://twiki.cern.ch/twiki/bin/view/CMS/CMSschoolsCommittee).
 - CMS DAS school introduction talks, e.g. [see the timetable of a 2024 CMS DAS school](https://indico.cern.ch/event/1388937/overview). In particular:
@@ -34,13 +34,16 @@ Here are a few pointers that are useful for newcomers in CERN and the CMS experi
 
 # The VUB H+jet analysis group
 
-## Meetings:
+## Meetings and collaborations:
 VUB specific meetings:
 - [Weekly VUB H+c & friends meeting](https://indico.iihe.ac.be/category/1/search?q=H%2Bc) on Monday afternoon. Topics discussed here are H+jet analysis efforts; top quark pair associated charm quark pair production (tt+cc); and heavy jet flavor identification developments.
 - [Biweekly meetings with the groups of Athens and Brown University](https://indico.cern.ch/category/7320/search?q=H%2Bc+with+H-%3EZZ) on Tuesday at 14:00. These groups are also involved in H+c with H->ZZ (and related work), and these collaborations are relevant towards CMS publications.
+
 Useful CMS meetings to attend (semi-)regularly:
 - [CMS HIG PAG meetings](https://indico.cern.ch/category/26/). The general HIG PAG meeting can be useful, typically on Tuesdays at 14:00 (biweekly, sometimes also off-week), and especially the HZZ (= H decaying to ZZ) subgroup meeting, typically on Friday at 14:00 (weekly or biweekly).
 - [CMS POG or other meetings](https://indico.cern.ch/category/6803/) on objects or tools that are relevant to your research (b tagging, jets, Monte Carlo generators...)
+
+The H+c analysis is part of a broader inter-university iBOF project in Belgium focusing on the charm-Higgs Yukawa coupling measurement. We meet with the other researchers a few times a year. 
 
 ## Documentation
 - CMS paper [HIG-19-001](https://arxiv.org/abs/2103.04956) of the measurement of the Higgs boson production cross section in the H->ZZ->4lepton final state, that has similarities to our H+jet analysis.
