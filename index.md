@@ -63,7 +63,7 @@ VUB specific meetings:
 - [Biweekly joined meetings of the VUB, Athens, Brown University groups](https://indico.cern.ch/category/7320/search?q=H%2Bc+with+H-%3EZZ) on Tuesday at 14:00. These groups are also involved in H+c with H->ZZ (and related work), and these collaborations are relevant towards CMS publication.
 
 Useful CMS meetings to attend (semi-)regularly:
-- [CMS HIG PAG meetings](https://indico.cern.ch/category/26/). The general HIG PAG meeting can be useful, typically on Tuesday at 14:00 (biweekly, sometimes also off-week), and especially the HZZ (= H decaying to ZZ) subgroup meeting, typically on Friday at 14:00 (weekly or biweekly).
+- [CMS HIG PAG meetings](https://indico.cern.ch/category/26/). The general HIG PAG meeting can be useful, typically on Tuesday at 14:00 (biweekly, sometimes also off-week), and **especially** the HZZ (= H decaying to ZZ) subgroup meeting, typically on Friday at 14:00 (weekly or biweekly).
 - [CMS POG or other meetings](https://indico.cern.ch/category/6803/) on objects or tools that are relevant to your research ([b tagging](https://indico.cern.ch/category/1309/), [jets](https://indico.cern.ch/category/1308/), [Monte Carlo generators](https://indico.cern.ch/category/548/), ...).
 - [CMS general weekly meeting](https://indico.cern.ch/category/677/), typically on Thursday at 16:00.
 
