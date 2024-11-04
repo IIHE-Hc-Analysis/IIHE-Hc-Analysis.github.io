@@ -32,7 +32,7 @@ Here are a few pointers that are useful for newcomers in CERN and the CMS experi
 
 ## Communication
 - [CERN Mattermost](https://mattermost.web.cern.ch), a chat platform that we use for quick direct communication with the group members. Once you have a CERN account, you can set up Mattermost and ask one of the group members (e.g. Gerrit) to be added to the CMS experiment team and the relevant discussion channels.
-- [CMS-talk](https://cms-talk.web.cern.ch/), a forum of the CMS Collaboration for physics and technical discussions, meeting announcements, etc, on a wide range of topics. It is useful to enable the email mode, and create filters based on your email client to sort the hundreds of messages per day. There is also a separate instance of this forum, [CMS-pubtalk](https://cms-pub-talk.web.cern.ch/), for discussions on specific analysis reviews and publications.
+- [CMS-talk](https://cms-talk.web.cern.ch/), a forum of the CMS Collaboration for physics and technical discussions, meeting announcements, etc, on a wide range of topics. It is useful to enable the email mode, and create filters based on subject via your email client to sort the (potentially hundreds of) messages per day. There is also a separate instance of this forum, [CMS-pubtalk](https://cms-pub-talk.web.cern.ch/), for discussions on specific analysis reviews and publications.
 
 ## Schools and introductions
 - The CMS Data Analysis School (CMSDAS) is highly recommended at the start of a PhD. This school is held two times a year: in Fermilab in January and in Europe in the middle of the year. See this [list of upcoming and past CMSDAS schools](https://twiki.cern.ch/twiki/bin/view/CMS/CMSschoolsCommittee).
