@@ -12,13 +12,13 @@ title: Welcome to IIHE-Hc-Analysis
 # The IIHE
 
 The Inter-University Institute For High Energies (IIHE) institute is a joined institute of the VUB and ULB high-energy physics groups. To learn more about the institute, you can visit the [IIHE website](https://iihe.ac.be/). 
-The IT group of the IIHE should send you a welcome email regarding the IT infrastructure. If they have not sent it yet after you arrive at the institute, you can ask them via [support-iihe@listserv.vub.ac.be](mailto:support-iihe@listserv.vub.ac.be). Their welcome email should give pointers to IIHE indico account registration, access to the [T2B computing cluster](https://t2bwiki.iihe.ac.be/First_access_to_t2b) (including the so-called "m-machines"), etc. 
+The IT group of the IIHE should send you a welcome email regarding the IT infrastructure. If they have not sent it yet after you arrive at the institute, you can ask them via [support-iiheATlistserv.vub.ac.be](mailto:support-iihe@listserv.vub.ac.be). Their welcome email should give pointers to IIHE indico account registration, access to the [T2B computing cluster](https://t2bwiki.iihe.ac.be/First_access_to_t2b) (including the so-called "m-machines"), etc. 
 
 Additional useful links and information:
 - [IIHE indico](https://indico.iihe.ac.be/), for meeting agendas. Note that you need to create a different account than you use for [cern indico](https://indico.cern.ch/category/6803/). Once you have created your IIHE indico account, you should ask Gerrit to be added to the CMS IIHE indico group to get access to CMS-internal meetings.
 
 
-# CERN and CMS
+# CERN and the CMS experiment
 
 Here are a few pointers that are useful for newcomers in CERN and the CMS experiment.
 - CERN and CMS registration: see the page on the website of the [CMS secretariat](https://cms-secretariat.web.cern.ch/cms-registration-and-computing-account#) and the (CMS twiki)[https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookGetAccount]. With you CERN account, you can get access to the lxplus computing cluster. 
