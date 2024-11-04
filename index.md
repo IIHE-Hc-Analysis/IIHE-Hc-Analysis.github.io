@@ -3,6 +3,9 @@ layout: default
 title: Welcome to IIHE-Hc-Analysis
 ---
 
+## Table of Contents
+{% toc %}
+
 <!--
 *Current group members:*
 #- PhD students: Felix Heyen, Nordin Breugelmans, Saranya Nandakumar, Chirayu Gupta
