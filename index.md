@@ -25,8 +25,8 @@ Additional useful links and information:
 Here are a few pointers that are useful for newcomers in CERN and the CMS experiment.
 - CERN and CMS registration: see the page on the website of the [CMS secretariat](https://cms-secretariat.web.cern.ch/cms-registration-and-computing-account#) and the [CMS twiki]([https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookGetAccount). With you CERN account, you can get access to CMS-internal websites (e.g. [twikis](https://twiki.cern.ch/twiki/bin/viewauth/CMS)) and the lxplus computing cluster. 
 - [CERN Mattermost](https://mattermost.web.cern.ch), a chat platform that we use for quick direct communication with the group members. Once you have a CERN account, you can set up Mattermost and ask one of the group members (e.g. Gerrit) to be added to the CMS experiment team and the relevant discussion channels.
-- The CMS Data Analysis School (CMS DAS) is highly recommended at the start of a PhD. This school is held two times a year: in Fermilab in January and in Europe in the middle of the year. See this [list of upcoming and past CMS DAS schools](https://twiki.cern.ch/twiki/bin/view/CMS/CMSschoolsCommittee).
-- CMS DAS school introduction talks, e.g. [see the timetable of a 2024 CMS DAS school](https://indico.cern.ch/event/1388937/overview). In particular:
+- The CMS Data Analysis School (CMSDAS) is highly recommended at the start of a PhD. This school is held two times a year: in Fermilab in January and in Europe in the middle of the year. See this [list of upcoming and past CMSDAS schools](https://twiki.cern.ch/twiki/bin/view/CMS/CMSschoolsCommittee).
+- CMSDAS school introduction talks, e.g. [see the timetable of a 2024 CMS DAS school](https://indico.cern.ch/event/1388937/overview). In particular:
   - [Intro talk on CMS detector](https://indico.cern.ch/event/1388937/timetable/#3-plenary-talk-cms-detector)
   - [Intro talk on CMS research program](https://indico.cern.ch/event/1388937/timetable/#4-plenary-talk-cms-physics-pro)
 - [CADI](https://cms.cern.ch/iCMS/analysisadmin/cadilines), a database of ongoing as well as published CMS analyses, with links to their papers and CMS-internal Analysis Notes
