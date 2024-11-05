@@ -27,7 +27,7 @@ title: Welcome to IIHE-Hc-Analysis
 # **The IIHE**
 
 The Inter-University Institute For High Energies (IIHE) institute is a joined institute of the VUB and ULB high-energy physics groups. To learn more about the institute, you can visit the [IIHE website](https://iihe.ac.be/). 
-The IT group of the IIHE should send you a welcome email regarding the IT infrastructure. If they have not sent it yet after you arrive at the institute, you can ask them via support-iiheATlistserv.vub.ac.be. Their welcome email should give pointers to IIHE indico account registration, access to the [T2B computing cluster](https://t2bwiki.iihe.ac.be/First_access_to_t2b) (including the so-called "m-machines"), etc. 
+The IT group of the IIHE should send you a welcome email regarding the IT infrastructure. If they have not sent it yet after you arrive at the institute, you can ask them via support-iiheATlistserv.vub.ac.be. Their welcome email should give pointers to IIHE indico account registration, access to the [T2B computing cluster](https://t2bwiki.iihe.ac.be/First_access_to_t2b) (including the so-called "m-machines"), etc. You should also ask them about ordering a laptop and a monitor, and, if desired, also ask them to install Ubuntu on it.
 
 Additional useful links and information:
 - [IIHE indico](https://indico.iihe.ac.be/), for meeting agendas. Note that you need to create a different account than you use for [cern indico](https://indico.cern.ch/category/6803/). Once you have created your IIHE indico account, you should ask Gerrit to be added to the CMS IIHE indico group to get access to CMS-internal meetings.
