@@ -53,7 +53,7 @@ Here are a few pointers that are useful for newcomers in CERN and the CMS experi
 ## Other relevant CMS platforms and tools
 - [CADI](https://cms.cern.ch/iCMS/analysisadmin/cadilines), a database of ongoing as well as published CMS analyses, with links to their papers and CMS-internal Analysis Notes
 - [iCMS](https://icms.cern.ch/tools/), a platform for various CMS-internal management tasks and documents. For instance, here you can also search specific CMS-internal [analysis notes](https://icms.cern.ch/tools/publications/notes/entries/AN/). This is also the platform where information on Experimental Physics Responsbilities (EPR) is managed.
-- Obtain a [grid certificate](https://t2bwiki.iihe.ac.be/Getting_a_certificate_for_the_T2) and install it as instructed in your browser and on the m-machines. This will enable you to use the grid, and get access to certain CMS-internal tools such as the [CMS data aggregation service](https://cmsweb.cern.ch/das/).  
+- Obtain a [grid certificate](https://t2bwiki.iihe.ac.be/Getting_a_certificate_for_the_T2) and install it as instructed in your browser and on the m-machines. This will enable you to use the grid, and get access to certain CMS-internal tools such as the [CMS data aggregation service](https://cmsweb.cern.ch/das/). You can ignore the step to check if your certificate is ok on SiteDB; this is an outdated instruction. You do still have to send the DN to the IT admins. Also not that it may take about a day until your certificate is synced with the CMS database.    
 
 # **The VUB H+jet analysis group**
 
@@ -67,7 +67,7 @@ Useful CMS meetings to attend (semi-)regularly:
 - [CMS POG or other meetings](https://indico.cern.ch/category/6803/) on objects or tools that are relevant to your research ([b tagging](https://indico.cern.ch/category/1309/), [jets](https://indico.cern.ch/category/1308/), [Monte Carlo generators](https://indico.cern.ch/category/548/), ...).
 - [CMS general weekly meeting](https://indico.cern.ch/category/677/), typically on Thursday at 16:00.
 
-The H+c analysis is part of a broader inter-university iBOF project in Belgium focusing on the charm-Higgs Yukawa coupling measurement. We meet with the other researchers a few times a year. You can try to add yourself to the [CERN e-group](https://e-groups.cern.ch/e-groups/EgroupsSearch.do) "be-charm-Higgs" (only applicable for PhD students and postdocs). Ask Gerrit if you experience problems. 
+The H+c analysis is part of a broader inter-university iBOF project in Belgium focusing on the charm-Higgs Yukawa coupling measurement. We meet with the other researchers a few times a year. You can try to add yourself to the [CERN e-group](https://e-groups.cern.ch/e-groups/EgroupsSearch.do) "be-charm-Higgs". Ask Gerrit if you experience problems. 
 
 ## Documentation
 - CMS paper [HIG-19-001](https://arxiv.org/abs/2103.04956) of the measurement of the Higgs boson production cross section in the H->ZZ->4lepton final state, that has similarities to our H+jet analysis.
